@@ -43,7 +43,7 @@ export const LogoutButton = styled.div`
   background: url(${logout}) center / 100% 100% no-repeat;
 `;
 
-export const WelcomeText = styled.h1`
+export const WelcomeText = styled.div`
   display: flex;
   justify-content:space-between;
   align-items: center;

@@ -1,9 +1,10 @@
 import React from 'react';
+
+import logo from '../../media/logo.svg';
+
 import {
   MainHolder, FiapLogo, HeaderMenu, LogoutButton, LogoutContainer, WelcomeText, SubWelcomeText,
 } from './styles';
-import logo from '../../media/logo.svg';
-
 
 const Header = () => (
   <MainHolder>
